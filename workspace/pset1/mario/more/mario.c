@@ -1,3 +1,12 @@
+// this assignment asks for a height an outputs blocks in a pattern that 
+// Mario jumps over in the first world, like so:
+
+//  Height = 4
+//    #  #
+//   ##  ##
+//  ###  ###
+// ####  ####
+
 #include <stdio.h>
 #include <cs50.h>
 

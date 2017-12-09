@@ -1,0 +1,4 @@
+0. The game allows dimensions from 3 x 3 to 9 x 9, as defined in the constants DIM_MIN and DIM_MAX.
+1. The board is represented with a nested array.
+2. The greet() function displays the greeting at the game's start.
+3. The functions I need to implement are: init(), draw(), move() and won().
